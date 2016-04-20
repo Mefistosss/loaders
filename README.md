@@ -1,2 +1,2 @@
 # loaders
-Css loader
+Css loaders
